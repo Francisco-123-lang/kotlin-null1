@@ -5,7 +5,7 @@ fun ejercicio1(num: Int?): Int {
 }
 
 fun ejercicio2(nombre: String?): String {
-    return nombre?: "Nombre desconocido"
+    return nombre?: "Nombre desconocido "
 }
 
 fun ejercicio3(nombre: String?): String? {
